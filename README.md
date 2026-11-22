@@ -41,14 +41,14 @@ Other Swedish IDs: SE-01 V. Vindelfjällen, SE-03 S. Jämtlandsfjällen, SE-07 V
 | # | Point | Lat | Lon | Height |
 |---|---|---|---|---|
 | 1 | Riksgränsen station | 68.4258 | 18.1273 | 521 |
-| 2	| Riksgränsfjället (top lift)	| 68.4278	| 18.1222	| 909	|
+| 2	| Riksgränsfjället (top lift)	| 68.4180	| 18.1045	| 909	|
 | 3 | Nordalsfjället	| 68.4065	| 18.0893	| 1051 |
 | 4	| Chamonix	| 45.9231	| 6.8697	| 1035 | 
 | 5	| Plan de l'Aiguille	| 45.9016	| 6.8849	| 2317 |
 | 6	| Mont Blanc	| 45.8328	| 6.8650	| 4800 |
 | 7	| Val d'Isère	| 45.4480	| 6.9802	| 1850 |	
 | 8	| Rocher de Bellevarde	| 45.4452	| 6.9511 | 2827	|
-| 9	| Grande Casse	| 45.4051	| 6.8276	| 3800 |
+| 9	| Grande Casse	| 45.4051	| 6.8276	| 3855 |
 | 10 | Courmayeur	| 45.7966	| 6.9689	|1200	|
 | 11	| Pavillon du Mont Fréty	| 45.8291	| 6.9509	| 2173 |
-| 12	|Punta Helbronner	| 45.8458	| 6.9317	| 3462	|
+| 12	| Punta Helbronner	| 45.8458	| 6.9317	| 3462	|
